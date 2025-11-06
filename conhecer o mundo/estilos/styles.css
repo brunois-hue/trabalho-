@@ -1,0 +1,65 @@
+body {
+    background-color: aquamarine; 
+
+}
+
+h1 {
+    color: rgba(47, 0, 255, 0.86);
+    text-align: center;
+    font-size: 60px;
+}
+
+h2 {
+    color: rgb(49, 46, 209);
+    text-align: center;
+    font-size: 45px;
+    text-align: justify;
+
+}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%; 
+}
+
+p {
+    text-align: center;
+    font-size: 35px;
+}
+
+div {
+    text-align: center;
+    font-size: larger;
+
+}
+table {
+    border: 10px solid black;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;    
+}
+
+ul {
+    text-align: center;
+    font-size: 35px;
+}
+
+li {
+    text-align: center;
+    font-size: 35px;
+}
+
+a {
+    text-align: center;
+    font-size: 35px;
+}
+td{
+    font-size: 35px;
+}
+th{
+    font-size: 35px;
+}
+tr{
+    font-size: 35px;
+}
